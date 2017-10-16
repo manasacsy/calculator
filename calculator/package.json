@@ -1,0 +1,16 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "manasa",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "manasa yedire",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-bootstrap": "^0.31.3",
+    "react-dom": "^15.6.1"
+  }
+}
